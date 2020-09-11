@@ -1,0 +1,80 @@
+{
+  "main": {
+    "id": "56f7dfeea56d01f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f1bdab8215692d0",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Time Series Analysis Notes.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4adc97bfe8aa7ae4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea6f6ee35adeb2b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e6a28cef3a6a645",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dceaba85eaa0d0a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 160,
+    "collapsed": true
+  },
+  "right": {
+    "id": "9aaba78609900e5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff99dba3d805c3d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "008084c3deab083a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Time Series Analysis Notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md"
+  ]
+}
